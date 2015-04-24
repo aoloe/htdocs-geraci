@@ -1,4 +1,7 @@
-htdocs-geraci
-=============
+# using
 
-website for geraci.ch
+- http://getskeleton.com/ for a responsive grid
+
+# todo
+
+- create a favicon
